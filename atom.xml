@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Ben Brattain's Flatiron Blog]]></title>
+  <link href="http://benbrattain.github.io/atom.xml" rel="self"/>
+  <link href="http://benbrattain.github.io/"/>
+  <updated>2015-06-11T17:33:09-04:00</updated>
+  <id>http://benbrattain.github.io/</id>
+  <author>
+    <name><![CDATA[Ben Brattain]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[My First Post on Octopress]]></title>
+    <link href="http://benbrattain.github.io/blog/2015/06/11/my-first-post-on-octopress/"/>
+    <updated>2015-06-11T17:30:15-04:00</updated>
+    <id>http://benbrattain.github.io/blog/2015/06/11/my-first-post-on-octopress</id>
+    <content type="html"><![CDATA[<p>&ldquo;Hello World.&rdquo;</p>
+]]></content>
+  </entry>
+  
+</feed>
